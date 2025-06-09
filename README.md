@@ -12,7 +12,7 @@ Framer Motion / GSAP	For smooth animations and transitions
 Vercel	Deployment platform with CI/CD integration
 
 🌐 Live Demo
-🔗 Visit Live Site
+🔗 Visit Live Site ( personal-portfolio-ya8f.vercel.app )
 
 📁 Features
 ⚡ Lightning-fast, fully responsive layout
@@ -46,7 +46,7 @@ This project is open-source and available under the MIT License.
 
 🙋‍♂️ Contact
 Taimoor Ali
-📧 taimoorali5686@gmail.com
+📧 ta371926@gmail.com
 🔗 Portfolio | LinkedIn | GitHub
 
 💡 Feel free to fork, contribute, or use this as inspiration for your own portfolio!
